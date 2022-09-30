@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @ArjunDhananjaya
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @Dhananjaya-K
+- 👀 I’m interested in ...Coding and Web pages Designing
+- 🌱 I’m currently learning ...Coding and Testing
+- 💞️ I’m looking to collaborate on ... Software Development Sector           
+- 📫 How to reach me ... dhananajayagowd1998@gmail.com
 
 <!---
 ArjunDhananjaya/ArjunDhananjaya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
